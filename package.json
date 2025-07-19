@@ -1,12 +1,20 @@
-{
-  "name": "gundrive.auth",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+ {
+      "name": "com.gundrive.auth",
+      "version": "1.0.0",
+      "displayName": "GunDrive Auth",
+      "description": "Gun Drive Auth Package",
+      "unity": "2022.3",
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      },
+      "keywords": [
+        "unity",
+        "sdk",
+        "package"
+      ],
+      "author": {
+        "name": "Norbert Frank Mba",
+        "email": "norbertmbafrank@gmail.com",
+        "url": "https://www.blackhards.com"
+      }
+    }

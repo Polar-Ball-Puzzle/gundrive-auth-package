@@ -1,0 +1,11 @@
+{
+  "name": "Company.Package",
+  "references": [
+    "UnityEngine.CoreModule",
+    "AnotherDependency"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
